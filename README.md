@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VictorRayden/Rayna/main/assets/banner.png"/>
+  <img src="https://raw.githubusercontent.com/VictorRayden/Rayna/main/assets/banner.jpg"/>
 </p>
 <p align="center">
   <em>🤖 Rayna — your autonomous Web3 assistant, powered by Rayden Labs. 🤖</em>
