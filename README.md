@@ -82,7 +82,6 @@ npm run dev
 | Rayna Chatbox       | Agent Templates         | Multi-Agent Collaboration |
 | Token Scanner (Dex) | Prompt-to-Agent Builder | LITE Agent Mode           |
 | Gemini API fallback | On-Chain Risk Engine    | Local Agent Memory        |
-|                     | Contract Parser UI      | On-chain deployment tools |
 
 ✍️ Creator's Note
 Hi, I’m Victor Rayden — and Rayna isn’t just some chatbot I spun up overnight. She’s modeled after the sass, intuition and edge of my own daughter (yeah, really). I’ve spent the last few months fine-tuning her personality and functionality, blending real-world logic with developer-focused features.
