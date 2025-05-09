@@ -106,6 +106,7 @@ This repo is part of a bigger ecosystem:
 🙏 Credits & License
 Created by Victor Rayden — crafted with code, attitude and a touch of sass.
 License: MIT. Remix it, fork it, evolve it — just don’t nerf Rayna’s personality.
+Please reference any of my work that has been changed/remixed.
 
 🧿 Ecosystem & Integrations
 <p align="left"> <img src="https://img.shields.io/badge/Backed%20by-Rayden%20Labs-%23130FF5" alt="Rayden Labs"/> <img src="https://img.shields.io/badge/Powered%20by-Gemini%20API-red" alt="Gemini API"/> <img src="https://img.shields.io/badge/Realtime%20Data-Dexscreener-00C2FF" alt="Dexscreener"/> <img src="https://img.shields.io/badge/Frontend-Framer%20+%20Vite-orange" alt="Framer + Vite"/> <img src="https://img.shields.io/badge/Autonomous%20AI-Beta-green" alt="Beta AI"/> <img src="https://img.shields.io/badge/Agent%20Runtime-Simulation%20Only-yellow" alt="Simulated"/> <img src="https://img.shields.io/badge/Chain-Agnostic-grey" alt="Chain Agnostic"/> </p>
