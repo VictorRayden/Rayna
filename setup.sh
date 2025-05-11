@@ -7,7 +7,7 @@ is_valid_sk_key() {
   [[ $api_key =~ $pattern ]] && return 0 || return 1
 }
 
-echo -n "Enter your OpenAI Key (eg: sk...) or press enter to continue with no key: "
+echo -n "Enter your OpenAI Key/Gemini (eg: sk...) or press enter to continue with no key: "
 read OPENAI_API_KEY
 
 if is_valid_sk_key $OPENAI_API_KEY || [ -z "$OPENAI_API_KEY" ]; then
