@@ -84,10 +84,10 @@ npm run dev
 | Gemini API fallback | On-Chain Risk Engine    | Local Agent Memory        |
 
 ✍️ Creator's Note
-Hi, I’m Victor Rayden — and Rayna isn’t just some chatbot I spun up overnight. She’s modeled after the sass, intuition and edge of my own daughter (yeah, really). I’ve spent the last few months fine-tuning her personality and functionality, blending real-world logic with developer-focused features.
+Hi, I’m Victor Rayden - and Rayna isn’t just some chatbot I spun up overnight. She’s modeled after the sass, intuition and edge of my own daughter (yeah, really). I’ve spent the last few months fine-tuning her personality and functionality, blending real-world logic with developer-focused features.
 
 Rayna is just the beginning.
-Rayden Labs is where autonomy meets attitude — and we’re building tools that don’t just work… they talk back.
+Rayden Labs is where autonomy meets attitude - and we’re building tools that don’t just work… they talk back.
 
 This repo is part of a bigger ecosystem:
 
@@ -104,8 +104,8 @@ This repo is part of a bigger ecosystem:
 — Victor
 
 🙏 Credits & License
-Created by Victor Rayden — crafted with code, attitude and a touch of sass.
-License: MIT. Remix it, fork it, evolve it — just don’t nerf Rayna’s personality.
+Created by Victor Rayden - crafted with code, attitude and a touch of sass.
+License: MIT. Remix it, fork it, evolve it - just don’t nerf Rayna’s personality.
 Please reference any of my work that has been changed/remixed.
 
 🧿 Ecosystem & Integrations
